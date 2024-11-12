@@ -1,7 +1,7 @@
-#Contar e imprimir los números desde uno hasta diez.
+#Hacer un programa que cuente desde uno hasta cien, imprimir el resultado
 
 
-y = 1
-while y <= 10:
-    print(y)
-    y += 1
+x = 1
+while x <= 100:
+    print(x)
+    x += 1
